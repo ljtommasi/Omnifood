@@ -52,4 +52,16 @@ At the end of the course, we applied these concepts to build Omnifood, a food de
 
 ## 📸 Screenshots
 
+![](Screenshots/Hero.png)
+![](Screenshots/HowItWorks.png)
+![](Screenshots/HowItWorks2.png)
+![](Screenshots/Meals.png)
+![](Screenshots/Testimonials.png)
+![](Screenshots/Pricing.png)
+![](Screenshots/CTA.png)
+
+
+
+
+
 
